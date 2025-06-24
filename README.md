@@ -1,12 +1,30 @@
-- 👋 Hi, I’m Krishna Prabu
-- 👀 I’m interested in Robotics, Machine Learning, Computer Vision, Natural Language Processing, and Large Language Models
-- 🌱 I’m currently learning all the above topics, and completing various projects in them
-- 💞️ I’m looking to collaborate on building and shipping software that can make a difference in student's lives here in IIT Kharagpur
-- 📫 How to reach me - via github or linkedin
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: I think I'm the only person who plays StarCraft 2 in India
+# 👋 Hi, I'm Krishna Prabu
 
-<!---
-krishna-prabu-kgpian/krishna-prabu-kgpian is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🎓 **Third Year Student at IIT Kharagpur**  
+🤖 Passionate about **AI, Machine Learning, NLP, Computer Vision, and Robotics**  
+🧠 Exploring the intersections of technology with intelligence and perception
+
+## 🛠️ My Top Skills & Technologies
+
+- **Languages:** Python
+- **Fields:** Machine Learning, Deep Learning, NLP, Computer Vision, Robotics
+- **Special Focus:** Large Language Models (LLMs) and their application in Robotics
+
+## 🌱 What I'm Up To
+
+- Building and experimenting with intelligent systems
+- Diving deep into the latest trends in AI and ML
+- Exploring real-world applications of NLP and Robotics
+
+## 💡 About Me
+
+- Student at IIT Kharagpur, eager to solve challenging problems
+- Always curious about how machines can understand and interact with the world
+- Board games enthusiast — let's play a game or two!
+
+## 📫 Connect With Me
+
+- [LinkedIn](https://www.linkedin.com/in/krishna-prabu-2a368a28b/)
+- [Personal Website](https://krishnaprabu.netlify.app)
+
+---
